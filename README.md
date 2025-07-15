@@ -15,3 +15,6 @@ DAX Calculations – Use Data Analysis Expressions (DAX) to create custom measur
 Interactivity – Implement drill-through, tooltips, and filters for an intuitive user experience.
 
 Dashboard Deployment – Publish reports to Power BI Service for sharing and collaboration.
+
+#PowerBi
+
